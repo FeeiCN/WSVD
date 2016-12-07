@@ -8,3 +8,4 @@ WAVR是为了让所有公司都能找到最准确、全面、权威的漏洞修�
 
 ## 漏洞列表
 - [SSRF](https://github.com/wufeifei/WAVR/blob/master/SSRF.md)
+- [Hard-coded Password](https://github.com/wufeifei/WAVR/blob/master/Hard-coded_password.md)
