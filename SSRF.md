@@ -1,7 +1,6 @@
-# SSRF
+# SSRF(Server-side Request Forge, 服务端请求伪造)。
 
 ### 漏洞简介
-SSRF(Server-side Request Forge, 服务端请求伪造)。
 由攻击者构造的攻击链接传给服务端执行造成的漏洞，一般用来在外网探测或攻击内网服务。
 
 ### 直观例子
