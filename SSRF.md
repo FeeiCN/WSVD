@@ -169,7 +169,7 @@ SMB匿名访问及爆破
 ##### 2. 禁止请求域名的301跳转（杜绝使用正常HTTP/HTTPS请求301跳转到攻击请求的方式）；
 ##### 3. 给请求域名设置白名单；
 
-PHP cURL方式修复方式参考
+`PHP cURL`
 ```php
 /**
  * Request service(Base cURL)
@@ -210,6 +210,7 @@ $url = $_GET['url'];
  }
 ```
 
+`Java:HttpURLConnection`
 ```java
 /**
  * 1. 限制允许HTTP/HTTPS协议
