@@ -7,6 +7,9 @@ Web application vulnerability repair, Web应用漏洞修复方案.
 WAVR是为了让所有公司都能找到最准确、全面、权威的漏洞修复方案。
 
 ## 漏洞列表
-- [服务端请求伪造（SSRF）](https://github.com/wufeifei/WAVR/blob/master/SSRF.md)
-- [硬编码密码（Hard-coded Password）](https://github.com/wufeifei/WAVR/blob/master/Hard-coded_password.md)
-- [跨站请求伪造（CSRF）](https://github.com/wufeifei/WAVR/blob/master/CSRF.md)
+
+|中文名|英文名|修复方案|
+|---|---|---|
+|服务端请求伪造|SSRF（Server-side Request Forge）|https://github.com/wufeifei/WAVR/blob/master/SSRF.md|
+|硬编码密码|Hard-coded Password|https://github.com/wufeifei/WAVR/blob/master/Hard-coded_password.md|
+|跨站请求伪造|CSRF（Server-side Request Forge）|https://github.com/wufeifei/WAVR/blob/master/CSRF.md|
