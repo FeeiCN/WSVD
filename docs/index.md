@@ -10,7 +10,7 @@ WAVR是为了让所有公司都能找到最准确、全面、权威的漏洞修�
 ```bash
 git clone https://github.com/wufeifei/WAVR
 cd WAVR
-[sudo] pip install mkdocs,mkdocs-alabaster
+[sudo] pip install mkdocs
 mkdocs serve
 ```
 
