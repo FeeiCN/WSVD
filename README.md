@@ -6,18 +6,14 @@ Web application vulnerability repair, Web应用漏洞修复方案.
 
 WAVR是为了让所有公司都能找到最准确、全面、权威的漏洞修复方案。
 
-## 安装
+## 在线使用
+
+[http://wavr.feei.cn](http://wavr.feei.cn)
+
+## 本地使用
 ```bash
 git clone https://github.com/wufeifei/WAVR
 cd WAVR
 [sudo] pip install mkdocs,mkdocs-alabaster
 mkdocs serve
 ```
-
-## 漏洞列表
-
-|中文名|英文名|修复方案|
-|---|---|---|
-|服务端请求伪造|SSRF（Server-side Request Forge）|[WAVR-SSRF](https://github.com/wufeifei/WAVR/blob/master/SSRF.md)|
-|硬编码密码|Hard-coded Password|[WAVR-HP](https://github.com/wufeifei/WAVR/blob/master/Hard-coded_password.md)|
-|跨站请求伪造|CSRF（Server-side Request Forge）|[WAVR-CSRF](https://github.com/wufeifei/WAVR/blob/master/CSRF.md)|

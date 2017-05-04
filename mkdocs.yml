@@ -8,6 +8,6 @@ theme: alabaster
 repo_url: https://github.com/wufeifei/WAVR
 repo_name: GitHub
 edit_uri: edit/master/docs/
-site_description: WAVR(Web应用漏洞修复方案)，从安全工程师和开发工程师的角度详细介绍每类漏洞的形成原理和防御方式。
+site_description: WAVR(Web应用漏洞修复方案)，从安全工程师和开发工程师的角度详细介绍每类漏洞的成因和全面的修复方案。
 site_author: Feei <feei#feei.cn>
-copyright: Copyright @ 2017 Feei. All rights reserved
+copyright: 2017 Feei. All rights reserved

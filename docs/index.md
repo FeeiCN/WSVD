@@ -6,14 +6,6 @@ Web application vulnerability repair, Web应用漏洞修复方案.
 
 WAVR是为了让所有公司都能找到最准确、全面、权威的漏洞修复方案。
 
-## 安装
-```bash
-git clone https://github.com/wufeifei/WAVR
-cd WAVR
-[sudo] pip install mkdocs
-mkdocs serve
-```
-
 ## 漏洞列表
 
 |中文名|英文名|修复方案|
