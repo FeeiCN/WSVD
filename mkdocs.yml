@@ -1,6 +1,6 @@
 site_name: WAVR
 pages:
-    - Home: index.md
+    - WAVR: index.md
     - SSRF: SSRF.md
     - Hard-coded Password: Hard-coded_password.md
     - CSRF: CSRF.md
